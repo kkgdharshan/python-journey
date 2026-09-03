@@ -15,4 +15,3 @@ if(average)>84:
     print('grade= a grade')
 else:
     print('grade= b grade')
-
